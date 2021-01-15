@@ -1,0 +1,1 @@
+var json_agenceregionaljumiadeKorhogo_3 = {"type":"FeatureCollection","name":"agenceregionaljumiadeKorhogo_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[210284.999506936292164,1046498.284219800960273]}}]}
